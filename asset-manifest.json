@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.11add70b.css",
-    "main.js": "/my-app/static/js/main.7ca0a379.js",
-    "static/js/415.4d6acbeb.chunk.js": "/my-app/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/my-app/static/js/787.1ed0c42c.chunk.js",
-    "static/media/about.png": "/my-app/static/media/about.93f7d65c57dcf4b93a9e.png",
-    "static/media/Resume_Nataly-Hernandez.pdf": "/my-app/static/media/Resume_Nataly-Hernandez.cb826897c4357a60fa95.pdf",
-    "static/media/avatar.png": "/my-app/static/media/avatar.7384acd95504eb5467fe.png",
-    "static/media/home-main.png": "/my-app/static/media/home-main.cc2a873c05341abebf45.png",
-    "static/media/starwarsBlog.png": "/my-app/static/media/starwarsBlog.67a6facbd0bb0915282f.png",
-    "static/media/rockpaperscissors.png": "/my-app/static/media/rockpaperscissors.a92bc0420beeea28ff49.png",
-    "static/media/todolist.png": "/my-app/static/media/todolist.0e4aca9a562a9d5f964f.png",
-    "static/media/randomcard.png": "/my-app/static/media/randomcard.ef3e3551068b3b88e89e.png",
-    "static/media/html5form.png": "/my-app/static/media/html5form.30794de77fe6b4a817b2.png",
-    "static/media/authenticationSystem.png": "/my-app/static/media/authenticationSystem.6f41f7758010e7dd57c1.png",
-    "static/media/home-bg.jpg": "/my-app/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/my-app/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/my-app/index.html",
-    "main.11add70b.css.map": "/my-app/static/css/main.11add70b.css.map",
-    "main.7ca0a379.js.map": "/my-app/static/js/main.7ca0a379.js.map",
-    "415.4d6acbeb.chunk.js.map": "/my-app/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/my-app/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.909dc75d.css",
+    "main.js": "/Portfolio/static/js/main.ae3c4d71.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about.png": "/Portfolio/static/media/about.93f7d65c57dcf4b93a9e.png",
+    "static/media/Resume_Nataly-Hernandez.pdf": "/Portfolio/static/media/Resume_Nataly-Hernandez.cb826897c4357a60fa95.pdf",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.7384acd95504eb5467fe.png",
+    "static/media/home-main.png": "/Portfolio/static/media/home-main.cc2a873c05341abebf45.png",
+    "static/media/starwarsBlog.png": "/Portfolio/static/media/starwarsBlog.67a6facbd0bb0915282f.png",
+    "static/media/rockpaperscissors.png": "/Portfolio/static/media/rockpaperscissors.a92bc0420beeea28ff49.png",
+    "static/media/todolist.png": "/Portfolio/static/media/todolist.0e4aca9a562a9d5f964f.png",
+    "static/media/randomcard.png": "/Portfolio/static/media/randomcard.ef3e3551068b3b88e89e.png",
+    "static/media/html5form.png": "/Portfolio/static/media/html5form.30794de77fe6b4a817b2.png",
+    "static/media/authenticationSystem.png": "/Portfolio/static/media/authenticationSystem.6f41f7758010e7dd57c1.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.909dc75d.css.map": "/Portfolio/static/css/main.909dc75d.css.map",
+    "main.ae3c4d71.js.map": "/Portfolio/static/js/main.ae3c4d71.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11add70b.css",
-    "static/js/main.7ca0a379.js"
+    "static/css/main.909dc75d.css",
+    "static/js/main.ae3c4d71.js"
   ]
 }
