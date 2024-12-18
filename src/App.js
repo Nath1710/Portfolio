@@ -28,8 +28,10 @@ function App() {
     return () => clearTimeout(timer);
   }, []);
 
+  const routerBaseName = process.env.PUBLIC_URL;
+
   return (
-    <Router>
+    <Router basename={routerBaseName}>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
